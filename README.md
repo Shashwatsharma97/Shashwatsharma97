@@ -233,22 +233,22 @@ afterthought bolted on once something "works."
 ---
 
 <!-- CHESS:START -->
-### 🧩 Daily Chess Puzzle (~966 Elo)
+### 🧩 Daily Chess Puzzle (~1004 Elo)
 
-**Mate in 1 · Middlegame** &middot; **White to move.** Which move is best?
+**Mate in 1 · Endgame** &middot; **White to move.** Which move is best?
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1789827291276" alt="chess puzzle board" width="480" />
+<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1789827748656" alt="chess puzzle board" width="480" />
 </div>
 
 | Option | Move — click if you think this is it |
 |---|---|
-| **A** | [Nxh7+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20A&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **B** | [Qe5+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20B&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **C** | [Ne4+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20C&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **D** | [Qe6#](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20D&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **A** | [Rxf7](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%206Lt9D%3A%20A&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **B** | [Rc7+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%206Lt9D%3A%20B&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **C** | [Rxa8#](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%206Lt9D%3A%20C&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **D** | [Rc1+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%206Lt9D%3A%20D&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
 
-1 person has solved this one so far.
+0 people have solved this one so far.
 
 <details>
 <summary><b>How this works · leaderboard</b></summary>
@@ -268,7 +268,7 @@ set lichess.org uses by default.
 
 | Solves | Who |
 |---|---|
-| 1 | [@Shashwatsharma97](https://github.com/Shashwatsharma97) |
+| — | no solves yet |
 
 </details>
 <!-- CHESS:END -->

@@ -1,37 +1,33 @@
 {
-  "puzzleId": "0ewY7",
-  "fen": "r1b4q/3n3p/p1p2kpB/2pp2N1/8/3P4/2P2PPP/4Q1K1 w - - 2 24",
+  "puzzleId": "6Lt9D",
+  "fen": "n1kr3r/1p2Rp1p/6pb/1P1p4/8/5PK1/1P4PP/R7 w - - 0 27",
   "turn": "w",
-  "rating": 966,
-  "themeLabel": "Mate in 1 · Middlegame",
-  "correctUci": "e1e6",
+  "rating": 1004,
+  "themeLabel": "Mate in 1 · Endgame",
+  "correctUci": "a1a8",
   "options": [
     {
       "letter": "A",
-      "uci": "g5h7",
-      "san": "Nxh7+"
+      "uci": "e7f7",
+      "san": "Rxf7"
     },
     {
       "letter": "B",
-      "uci": "e1e5",
-      "san": "Qe5+"
+      "uci": "e7c7",
+      "san": "Rc7+"
     },
     {
       "letter": "C",
-      "uci": "g5e4",
-      "san": "Ne4+"
+      "uci": "a1a8",
+      "san": "Rxa8#"
     },
     {
       "letter": "D",
-      "uci": "e1e6",
-      "san": "Qe6#"
+      "uci": "a1c1",
+      "san": "Rc1+"
     }
   ],
-  "solvedBy": [
-    "Shashwatsharma97"
-  ],
+  "solvedBy": [],
   "incorrectCount": 0,
-  "allTimeLeaderboard": {
-    "Shashwatsharma97": 1
-  }
+  "allTimeLeaderboard": {}
 }
