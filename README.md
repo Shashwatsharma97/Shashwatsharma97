@@ -237,19 +237,11 @@ afterthought bolted on once something "works."
 
 Game in progress — anyone can play the next move. That's the point!
 
-|   | A | B | C | D | E | F | G | H |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **8** | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
-| **7** | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
-| **6** | · | · | · | · | · | · | · | · |
-| **5** | · | · | · | · | · | · | · | · |
-| **4** | · | · | · | · | ♙ | · | · | · |
-| **3** | · | · | · | · | · | · | · | · |
-| **2** | ♙ | ♙ | ♙ | ♙ | · | ♙ | ♙ | ♙ |
-| **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1789826154893" alt="chess board" width="480" />
+</div>
 
-
-**Black (solid pieces) to move.** Click a destination square to play it:
+**Black to move.** Click a destination square to play it:
 
 | From | To — click one |
 |---|---|
@@ -271,6 +263,9 @@ Game in progress — anyone can play the next move. That's the point!
 Clicking a destination opens a pre-filled GitHub Issue — hit **Submit new issue**
 and a GitHub Action validates the move, updates the board above, and closes the
 issue automatically. No account setup, no app install, just click and go.
+
+Piece artwork: the "cburnett" set by Colin M. L. Burnett (CC BY-SA 3.0),
+the same set lichess.org uses by default.
 
 **Recent moves**
 
