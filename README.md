@@ -21,7 +21,7 @@ Bennett University &middot; Graduated August 2026
 
 <div align="center">
 
-| 📄 2 Published Papers | 🚗 94.3% CV Accuracy | 🧮 95+ LeetCode Solved | 🌐 Live Deployed Portfolio |
+| 📄 2 Published Papers | 🚗 94.3% CV Accuracy | 🧮 300+ DSA Problems Solved | 🌐 Live Deployed Portfolio |
 |:---:|:---:|:---:|:---:|
 
 </div>
