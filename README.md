@@ -233,51 +233,42 @@ afterthought bolted on once something "works."
 ---
 
 <!-- CHESS:START -->
-### ♞️ Play Chess With Me
+### 🧩 Daily Chess Puzzle (~966 Elo)
 
-Game in progress — anyone can play the next move. That's the point!
+**Mate in 1 · Middlegame** &middot; **White to move.** Which move is best?
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1789826430185" alt="chess board" width="480" />
+<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1789827162916" alt="chess puzzle board" width="480" />
 </div>
 
-**Black to move.** Click a destination square to play it:
-
-| From | To — click one |
+| Option | Move — click if you think this is it |
 |---|---|
-| **A7** | [A6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20a7a6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [A5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20a7a5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **B7** | [B6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b7b6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [B5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b7b5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **B8** | [C6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b8c6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [A6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b8a6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **C7** | [C6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20c7c6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [C5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20c7c5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **D7** | [D6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20d7d6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [D5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20d7d5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **E7** | [E6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20e7e6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [E5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20e7e5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **F7** | [F6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20f7f6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [F5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20f7f5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **G7** | [G6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g7g6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [G5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g7g5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **G8** | [H6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g8h6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [F6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g8f6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **H7** | [H6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20h7h6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [H5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20h7h5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **A** | [Nxh7+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20A&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **B** | [Qe5+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20B&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **C** | [Ne4+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20C&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **D** | [Qe6#](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20D&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
 
+0 people have solved this one so far.
 
 <details>
-<summary><b>How this works · recent moves · leaderboard</b></summary>
+<summary><b>How this works · leaderboard</b></summary>
 
-Clicking a destination opens a pre-filled GitHub Issue — hit **Submit new issue**
-and a GitHub Action validates the move, updates the board above, and closes the
-issue automatically. No account setup, no app install, just click and go.
+Pick the move you think is best — clicking it opens a pre-filled GitHub
+Issue, just hit **Submit new issue**. A GitHub Action checks it instantly,
+tells you if you were right, and closes the issue. Guess wrong? Come back
+and try again, no penalty. A fresh puzzle is picked automatically once a day.
 
-Piece artwork: the "cburnett" set by Colin M. L. Burnett (CC BY-SA 3.0),
-the same set lichess.org uses by default.
+Puzzles are real, rated positions from the
+[Lichess open puzzle database](https://database.lichess.org/#puzzles) (CC0),
+filtered to ones with a single clear best move around 1000 Elo. Piece
+artwork: the "cburnett" set by Colin M. L. Burnett (CC BY-SA 3.0), the same
+set lichess.org uses by default.
 
-**Recent moves**
+**All-time solvers**
 
-| Move | By |
+| Solves | Who |
 |---|---|
-| Nf3 | [@Shashwatsharma97](https://github.com/Shashwatsharma97) |
-
-**Top movers (all-time)**
-
-| Moves | Who |
-|---|---|
-| 2 | [@Shashwatsharma97](https://github.com/Shashwatsharma97) |
+| — | no solves yet |
 
 </details>
 <!-- CHESS:END -->

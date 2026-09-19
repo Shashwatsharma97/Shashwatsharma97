@@ -1,0 +1,530 @@
+[
+  {
+    "id": "6BQYc",
+    "fen": "5r2/p5R1/1p3k2/5p2/P4K1P/2r5/8/6R1 w - - 0 43",
+    "turn": "w",
+    "correctUci": "g1g6",
+    "correctSan": "R1g6#",
+    "rating": 1040,
+    "themes": [
+      "blindSwineMate",
+      "endgame",
+      "mate",
+      "mateIn1",
+      "oneMove",
+      "rookEndgame"
+    ],
+    "legalCount": 27
+  },
+  {
+    "id": "6fVUi",
+    "fen": "8/5p1p/4p1p1/3kP3/3P1PP1/p2K3P/Nb6/8 w - - 0 39",
+    "turn": "w",
+    "correctUci": "a2b4",
+    "correctSan": "Nb4#",
+    "rating": 1001,
+    "themes": [
+      "endgame",
+      "mate",
+      "mateIn1",
+      "oneMove"
+    ],
+    "legalCount": 10
+  },
+  {
+    "id": "3637T",
+    "fen": "rn2kbnr/pppb1ppp/3p4/q7/2B1P3/5Q1P/PB3PP1/RN2K2R w KQkq - 2 10",
+    "turn": "w",
+    "correctUci": "b2c3",
+    "correctSan": "Bc3",
+    "rating": 1041,
+    "themes": [
+      "advantage",
+      "defensiveMove",
+      "oneMove",
+      "opening"
+    ],
+    "legalCount": 7
+  },
+  {
+    "id": "33B9A",
+    "fen": "4Qrk1/pb1n2bp/1pq2pp1/8/3P1P2/2N4P/PP4P1/RNB1R1K1 b - - 0 18",
+    "turn": "b",
+    "correctUci": "c6g2",
+    "correctSan": "Qxg2#",
+    "rating": 1024,
+    "themes": [
+      "kingsideAttack",
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 30
+  },
+  {
+    "id": "0NgZW",
+    "fen": "6r1/2pkqrpR/2n1ppQ1/pp5N/2nPP1P1/P7/1PRNKPP1/8 b - - 1 26",
+    "turn": "b",
+    "correctUci": "c6d4",
+    "correctSan": "Nxd4+",
+    "rating": 967,
+    "themes": [
+      "crushing",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 36
+  },
+  {
+    "id": "5qpu5",
+    "fen": "r2qkb1r/pp1nppp1/2p4p/8/4NB2/3P4/PPP1QPPP/R3K2R w KQkq - 3 12",
+    "turn": "w",
+    "correctUci": "e4d6",
+    "correctSan": "Nd6#",
+    "rating": 1013,
+    "themes": [
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove",
+      "pin",
+      "smotheredMate"
+    ],
+    "legalCount": 46
+  },
+  {
+    "id": "22sss",
+    "fen": "2rk1r2/p6R/3p1bQ1/1p2p3/4P3/2q5/P4P2/1K1R4 w - - 5 28",
+    "turn": "w",
+    "correctUci": "d1d6",
+    "correctSan": "Rxd6#",
+    "rating": 968,
+    "themes": [
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 41
+  },
+  {
+    "id": "6fE72",
+    "fen": "2rqk2r/1b1p1p1p/4p3/1N4N1/1n2nQ2/4b3/1PP2PPP/R2B1RK1 w k - 0 16",
+    "turn": "w",
+    "correctUci": "f4f7",
+    "correctSan": "Qxf7#",
+    "rating": 988,
+    "themes": [
+      "attackingF2F7",
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 48
+  },
+  {
+    "id": "1cJlb",
+    "fen": "8/2p1kp1R/1p1p2B1/p2P4/PnP5/KP4P1/6r1/8 b - - 0 34",
+    "turn": "b",
+    "correctUci": "g2a2",
+    "correctSan": "Ra2#",
+    "rating": 961,
+    "themes": [
+      "endgame",
+      "hookMate",
+      "mate",
+      "mateIn1",
+      "oneMove"
+    ],
+    "legalCount": 23
+  },
+  {
+    "id": "4Mv6R",
+    "fen": "r4rk1/ppq2pp1/5n1p/3p4/2pP4/2P2n2/PPB2PPb/R1BQRK2 w - - 0 19",
+    "turn": "w",
+    "correctUci": "d1f3",
+    "correctSan": "Qxf3",
+    "rating": 951,
+    "themes": [
+      "advantage",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 33
+  },
+  {
+    "id": "0ewY7",
+    "fen": "r1b4q/3n3p/p1p2kpB/2pp2N1/8/3P4/2P2PPP/4Q1K1 w - - 2 24",
+    "turn": "w",
+    "correctUci": "e1e6",
+    "correctSan": "Qe6#",
+    "rating": 966,
+    "themes": [
+      "master",
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 35
+  },
+  {
+    "id": "5NLxB",
+    "fen": "r1r1b2k/pp6/1n2pNRp/3pP3/7P/8/1P3PP1/3R2K1 w - - 1 30",
+    "turn": "w",
+    "correctUci": "g6g8",
+    "correctSan": "Rg8#",
+    "rating": 1027,
+    "themes": [
+      "arabianMate",
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 33
+  },
+  {
+    "id": "6KzT2",
+    "fen": "5k1r/pp2np2/7p/7N/1b3P1Q/8/2K3PP/qR1R4 b - - 0 28",
+    "turn": "b",
+    "correctUci": "a1c3",
+    "correctSan": "Qc3#",
+    "rating": 971,
+    "themes": [
+      "master",
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove",
+      "swallowstailMate"
+    ],
+    "legalCount": 35
+  },
+  {
+    "id": "5dlpC",
+    "fen": "r5rk/1p3p1p/pq2p2B/1b1pN3/1b1Pn1Q1/1B5P/PP3PP1/R5K1 w - - 4 23",
+    "turn": "w",
+    "correctUci": "e5f7",
+    "correctSan": "Nxf7#",
+    "rating": 994,
+    "themes": [
+      "cornerMate",
+      "kingsideAttack",
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 46
+  },
+  {
+    "id": "5UdsZ",
+    "fen": "1k1r4/1p2Q1p1/p1p5/3pP1p1/1P6/2P1q3/P5PK/R4R2 b - - 0 22",
+    "turn": "b",
+    "correctUci": "d8h8",
+    "correctSan": "Rh8#",
+    "rating": 1039,
+    "themes": [
+      "endgame",
+      "mate",
+      "mateIn1",
+      "oneMove"
+    ],
+    "legalCount": 35
+  },
+  {
+    "id": "5AYeR",
+    "fen": "2kr1b1r/pppq2pp/2n2n2/1Q3N2/4p3/1B6/PPP2PPP/RNB1K2R b KQ - 0 11",
+    "turn": "b",
+    "correctUci": "d7d1",
+    "correctSan": "Qd1#",
+    "rating": 1025,
+    "themes": [
+      "mate",
+      "mateIn1",
+      "oneMove",
+      "opening"
+    ],
+    "legalCount": 38
+  },
+  {
+    "id": "2a3jf",
+    "fen": "2B1r3/pb2B1bk/1pqP2p1/5p1p/8/1Q6/PP3PPP/R4RK1 b - - 0 23",
+    "turn": "b",
+    "correctUci": "c6g2",
+    "correctSan": "Qxg2#",
+    "rating": 978,
+    "themes": [
+      "kingsideAttack",
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 40
+  },
+  {
+    "id": "6UDBL",
+    "fen": "rnb1r2k/pp3Bpp/2pP4/2q5/5B2/2PQ1NP1/PP5P/R4K1R b - - 0 18",
+    "turn": "b",
+    "correctUci": "c8h3",
+    "correctSan": "Bh3#",
+    "rating": 970,
+    "themes": [
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 42
+  },
+  {
+    "id": "7zSjt",
+    "fen": "r4rk1/1p2b1pp/p3p3/n2pP3/5B1P/8/PPP1B1P1/2KR3R b - - 0 18",
+    "turn": "b",
+    "correctUci": "f8f4",
+    "correctSan": "Rxf4",
+    "rating": 966,
+    "themes": [
+      "advantage",
+      "hangingPiece",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 33
+  },
+  {
+    "id": "0HVRq",
+    "fen": "3R4/pp4bk/1n2Q1pp/8/2P1N2q/1P2BP2/P5PP/6K1 b - - 0 24",
+    "turn": "b",
+    "correctUci": "h4e1",
+    "correctSan": "Qe1#",
+    "rating": 951,
+    "themes": [
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 31
+  },
+  {
+    "id": "1mKZt",
+    "fen": "4R3/8/p2b1Ppk/Pp6/4b2P/8/5K2/r4B2 w - - 3 49",
+    "turn": "w",
+    "correctUci": "e8h8",
+    "correctSan": "Rh8#",
+    "rating": 1003,
+    "themes": [
+      "endgame",
+      "mate",
+      "mateIn1",
+      "oneMove"
+    ],
+    "legalCount": 22
+  },
+  {
+    "id": "0rhXq",
+    "fen": "r2q1rk1/pp3ppp/2p3b1/4p3/4n1P1/1PBB1P1P/P1PKQ3/R6R w - - 0 18",
+    "turn": "w",
+    "correctUci": "f3e4",
+    "correctSan": "fxe4",
+    "rating": 980,
+    "themes": [
+      "advantage",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 6
+  },
+  {
+    "id": "3UOTi",
+    "fen": "2r2rk1/3b1ppp/3n4/2p5/p1N5/1p1P1B2/4NPPP/R1R3K1 b - - 1 26",
+    "turn": "b",
+    "correctUci": "d6c4",
+    "correctSan": "Nxc4",
+    "rating": 1011,
+    "themes": [
+      "advantage",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 30
+  },
+  {
+    "id": "0Lrf7",
+    "fen": "r2qk2r/pp3pbp/2p3p1/3pn3/Q5b1/2PBPNP1/PP1N1PP1/R3K2R w KQkq - 0 12",
+    "turn": "w",
+    "correctUci": "f3e5",
+    "correctSan": "Nxe5",
+    "rating": 1000,
+    "themes": [
+      "advantage",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 57
+  },
+  {
+    "id": "5D2rY",
+    "fen": "3k4/p1p2Rp1/QPp5/N3P3/1r6/K5P1/PP1q4/8 b - - 9 30",
+    "turn": "b",
+    "correctUci": "d2b2",
+    "correctSan": "Qxb2#",
+    "rating": 1001,
+    "themes": [
+      "endgame",
+      "mate",
+      "mateIn1",
+      "oneMove",
+      "triangleMate"
+    ],
+    "legalCount": 36
+  },
+  {
+    "id": "6odpA",
+    "fen": "5rk1/5ppp/QpNp4/3nq3/P1P5/1P6/5PPP/R5K1 b - - 2 21",
+    "turn": "b",
+    "correctUci": "e5a1",
+    "correctSan": "Qxa1#",
+    "rating": 998,
+    "themes": [
+      "backRankMate",
+      "endgame",
+      "hangingPiece",
+      "mate",
+      "mateIn1",
+      "oneMove"
+    ],
+    "legalCount": 38
+  },
+  {
+    "id": "352he",
+    "fen": "r2qkb1r/ppp2ppp/3p1n2/8/1n1PP1b1/3B1N2/PP1N1PPP/R1BQ1RK1 b kq - 4 9",
+    "turn": "b",
+    "correctUci": "b4d3",
+    "correctSan": "Nxd3",
+    "rating": 986,
+    "themes": [
+      "advantage",
+      "hangingPiece",
+      "oneMove",
+      "opening"
+    ],
+    "legalCount": 39
+  },
+  {
+    "id": "4s9rf",
+    "fen": "8/6r1/8/8/5k1K/8/7R/8 b - - 2 73",
+    "turn": "b",
+    "correctUci": "g7h7",
+    "correctSan": "Rh7#",
+    "rating": 997,
+    "themes": [
+      "endgame",
+      "mate",
+      "mateIn1",
+      "oneMove",
+      "rookEndgame"
+    ],
+    "legalCount": 19
+  },
+  {
+    "id": "4GOyp",
+    "fen": "rn1qkb1r/1p2pppp/p4n2/4N3/2BP4/2N5/PP3PPP/R1BbK2R w KQkq - 0 10",
+    "turn": "w",
+    "correctUci": "c4f7",
+    "correctSan": "Bxf7#",
+    "rating": 983,
+    "themes": [
+      "attackingF2F7",
+      "mate",
+      "mateIn1",
+      "oneMove",
+      "opening"
+    ],
+    "legalCount": 46
+  },
+  {
+    "id": "4jn1w",
+    "fen": "r1bqk2r/pp1n1pb1/2pp1n1p/4p1N1/3PP2B/2PB4/PP1N1PPP/R2Q1RK1 b kq - 0 10",
+    "turn": "b",
+    "correctUci": "h6g5",
+    "correctSan": "hxg5",
+    "rating": 1006,
+    "themes": [
+      "advantage",
+      "oneMove",
+      "opening"
+    ],
+    "legalCount": 31
+  },
+  {
+    "id": "6Lt9D",
+    "fen": "n1kr3r/1p2Rp1p/6pb/1P1p4/8/5PK1/1P4PP/R7 w - - 0 27",
+    "turn": "w",
+    "correctUci": "a1a8",
+    "correctSan": "Rxa8#",
+    "rating": 1004,
+    "themes": [
+      "endgame",
+      "master",
+      "mate",
+      "mateIn1",
+      "oneMove",
+      "queensideAttack"
+    ],
+    "legalCount": 35
+  },
+  {
+    "id": "7epJ3",
+    "fen": "8/1p3q1k/4p3/1P1n1p1P/3Q4/5P2/bB4P1/6K1 w - - 4 40",
+    "turn": "w",
+    "correctUci": "d4h8",
+    "correctSan": "Qh8#",
+    "rating": 1046,
+    "themes": [
+      "endgame",
+      "master",
+      "mate",
+      "mateIn1",
+      "oneMove"
+    ],
+    "legalCount": 34
+  },
+  {
+    "id": "1Pxeg",
+    "fen": "r1b2rk1/pp1n1qp1/4p3/2ppP1P1/2PP4/2P5/P2N4/R2QKB1R b KQ - 0 17",
+    "turn": "b",
+    "correctUci": "f7f2",
+    "correctSan": "Qf2#",
+    "rating": 1021,
+    "themes": [
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 24
+  },
+  {
+    "id": "8VRG7",
+    "fen": "1rn4k/8/1p1p1r1P/pPpNpq2/2Pn3Q/P2P1bP1/5P1P/1RB2RKB b - - 1 30",
+    "turn": "b",
+    "correctUci": "d4e2",
+    "correctSan": "Ne2#",
+    "rating": 1003,
+    "themes": [
+      "master",
+      "masterVsMaster",
+      "mate",
+      "mateIn1",
+      "middlegame",
+      "oneMove"
+    ],
+    "legalCount": 38
+  }
+]

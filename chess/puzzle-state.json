@@ -1,0 +1,33 @@
+{
+  "puzzleId": "0ewY7",
+  "fen": "r1b4q/3n3p/p1p2kpB/2pp2N1/8/3P4/2P2PPP/4Q1K1 w - - 2 24",
+  "turn": "w",
+  "rating": 966,
+  "themeLabel": "Mate in 1 · Middlegame",
+  "correctUci": "e1e6",
+  "options": [
+    {
+      "letter": "A",
+      "uci": "g5h7",
+      "san": "Nxh7+"
+    },
+    {
+      "letter": "B",
+      "uci": "e1e5",
+      "san": "Qe5+"
+    },
+    {
+      "letter": "C",
+      "uci": "g5e4",
+      "san": "Ne4+"
+    },
+    {
+      "letter": "D",
+      "uci": "e1e6",
+      "san": "Qe6#"
+    }
+  ],
+  "solvedBy": [],
+  "incorrectCount": 0,
+  "allTimeLeaderboard": {}
+}
