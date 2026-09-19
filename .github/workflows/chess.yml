@@ -1,0 +1,60 @@
+name: Chess
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+# Serialize moves so two people clicking at the same second can't race
+# each other and corrupt the board state.
+concurrency:
+  group: chess-game
+  cancel-in-progress: false
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'chess:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install chess.js
+        run: npm install chess.js@1 --no-save
+
+      - name: React to the issue
+        run: gh api repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/reactions -f content=eyes
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Play move / start game
+        id: play
+        env:
+          REPO: ${{ github.repository }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: node .github/scripts/chess-move.cjs
+
+      - name: Commit board update
+        if: steps.play.outputs.ok == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md chess/state.json
+          git diff --cached --quiet || git commit -m "chess: ${{ github.event.issue.user.login }} played a move"
+          git push
+
+      - name: Reply on the issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body "${{ steps.play.outputs.message }}"
+          gh issue close ${{ github.event.issue.number }}
