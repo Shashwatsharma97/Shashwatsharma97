@@ -238,23 +238,23 @@ afterthought bolted on once something "works."
 Game in progress — anyone can play the next move. That's the point!
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1789826389348" alt="chess board" width="480" />
+<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1789826430185" alt="chess board" width="480" />
 </div>
 
-**White to move.** Click a destination square to play it:
+**Black to move.** Click a destination square to play it:
 
 | From | To — click one |
 |---|---|
-| **A2** | [A3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20a2a3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [A4](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20a2a4&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **B1** | [A3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b1a3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [C3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b1c3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **B2** | [B3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b2b3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [B4](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b2b4&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **C2** | [C3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20c2c3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [C4](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20c2c4&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **D2** | [D3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20d2d3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [D4](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20d2d4&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **E2** | [E3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20e2e3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [E4](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20e2e4&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **F2** | [F3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20f2f3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [F4](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20f2f4&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **G1** | [F3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g1f3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [H3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g1h3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **G2** | [G3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g2g3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [G4](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g2g4&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **H2** | [H3](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20h2h3&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [H4](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20h2h4&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **A7** | [A6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20a7a6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [A5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20a7a5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **B7** | [B6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b7b6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [B5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b7b5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **B8** | [C6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b8c6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [A6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20b8a6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **C7** | [C6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20c7c6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [C5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20c7c5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **D7** | [D6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20d7d6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [D5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20d7d5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **E7** | [E6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20e7e6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [E5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20e7e5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **F7** | [F6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20f7f6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [F5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20f7f5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **G7** | [G6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g7g6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [G5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g7g5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **G8** | [H6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g8h6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [F6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20g8f6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **H7** | [H6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20h7h6&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) , [H5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=chess%3A%20h7h5&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
 
 
 <details>
@@ -271,13 +271,13 @@ the same set lichess.org uses by default.
 
 | Move | By |
 |---|---|
-| — | no moves yet, be the first! |
+| Nf3 | [@Shashwatsharma97](https://github.com/Shashwatsharma97) |
 
 **Top movers (all-time)**
 
 | Moves | Who |
 |---|---|
-| 1 | [@Shashwatsharma97](https://github.com/Shashwatsharma97) |
+| 2 | [@Shashwatsharma97](https://github.com/Shashwatsharma97) |
 
 </details>
 <!-- CHESS:END -->
