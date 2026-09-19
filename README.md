@@ -6,6 +6,8 @@
 
 Fullstack Developer (React / Next.js / Node) &nbsp;&middot;&nbsp; Applied ML &amp; Explainable AI Research
 
+Bennett University &middot; Graduated August 2026
+
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-two-blush-iyk2u043f4.vercel.app)
