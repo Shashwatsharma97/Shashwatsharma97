@@ -238,7 +238,7 @@ afterthought bolted on once something "works."
 **Mate in 1 · Middlegame** &middot; **White to move.** Which move is best?
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1789827162916" alt="chess puzzle board" width="480" />
+<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1789827291276" alt="chess puzzle board" width="480" />
 </div>
 
 | Option | Move — click if you think this is it |
@@ -248,7 +248,7 @@ afterthought bolted on once something "works."
 | **C** | [Ne4+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20C&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
 | **D** | [Qe6#](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20D&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
 
-0 people have solved this one so far.
+1 person has solved this one so far.
 
 <details>
 <summary><b>How this works · leaderboard</b></summary>
@@ -268,7 +268,7 @@ set lichess.org uses by default.
 
 | Solves | Who |
 |---|---|
-| — | no solves yet |
+| 1 | [@Shashwatsharma97](https://github.com/Shashwatsharma97) |
 
 </details>
 <!-- CHESS:END -->

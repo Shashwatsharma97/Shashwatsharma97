@@ -27,7 +27,11 @@
       "san": "Qe6#"
     }
   ],
-  "solvedBy": [],
+  "solvedBy": [
+    "Shashwatsharma97"
+  ],
   "incorrectCount": 0,
-  "allTimeLeaderboard": {}
+  "allTimeLeaderboard": {
+    "Shashwatsharma97": 1
+  }
 }
