@@ -292,8 +292,10 @@ function main() {
   }
 
   if (isNewGameRequest) {
-    if (state.fen && !game.isGameOver()) {
-      finish(false, `@${ISSUE_USER} The current game isn't finished yet — someone needs to checkmate/draw it first!`);
+    const repoOwner = REPO.split("/")[0] || "";
+    const isOwner = repoOwner && repoOwner.toLowerCase() === ISSUE_USER.toLowerCase();
+    if (state.fen && !game.isGameOver() && !isOwner) {
+      finish(false, `@${ISSUE_USER} The current game isn't finished yet — someone needs to checkmate/draw it first! (Only @${repoOwner} can force-reset an in-progress game.)`);
       return;
     }
     game = new Chess();
