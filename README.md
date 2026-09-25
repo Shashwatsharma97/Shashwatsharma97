@@ -233,20 +233,20 @@ afterthought bolted on once something "works."
 ---
 
 <!-- CHESS:START -->
-### 🧩 Daily Chess Puzzle (~1011 Elo)
+### 🧩 Daily Chess Puzzle (~1001 Elo)
 
-**Winning advantage · Middlegame** &middot; **Black to move.** Which move is best?
+**Mate in 1 · Endgame** &middot; **Black to move.** Which move is best?
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1790238071655" alt="chess puzzle board" width="480" />
+<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1790325810153" alt="chess puzzle board" width="480" />
 </div>
 
 | Option | Move — click if you think this is it |
 |---|---|
-| **A** | [Be6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%203UOTi%3A%20A&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **B** | [Nf5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%203UOTi%3A%20B&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **C** | [Nxc4](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%203UOTi%3A%20C&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **D** | [Rc6](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%203UOTi%3A%20D&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **A** | [Qxb2#](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%205D2rY%3A%20A&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **B** | [Qe3+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%205D2rY%3A%20B&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **C** | [Qc3+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%205D2rY%3A%20C&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **D** | [Qd3+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%205D2rY%3A%20D&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
 
 0 people have solved this one so far.
 
