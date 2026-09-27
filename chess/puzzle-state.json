@@ -1,30 +1,30 @@
 {
-  "puzzleId": "0Lrf7",
-  "fen": "r2qk2r/pp3pbp/2p3p1/3pn3/Q5b1/2PBPNP1/PP1N1PP1/R3K2R w KQkq - 0 12",
-  "turn": "w",
-  "rating": 1000,
-  "themeLabel": "Winning advantage · Middlegame",
-  "correctUci": "f3e5",
+  "puzzleId": "352he",
+  "fen": "r2qkb1r/ppp2ppp/3p1n2/8/1n1PP1b1/3B1N2/PP1N1PPP/R1BQ1RK1 b kq - 4 9",
+  "turn": "b",
+  "rating": 986,
+  "themeLabel": "Winning advantage · Opening",
+  "correctUci": "b4d3",
   "options": [
     {
       "letter": "A",
-      "uci": "a4g4",
-      "san": "Qxg4"
+      "uci": "b4d3",
+      "san": "Nxd3"
     },
     {
       "letter": "B",
-      "uci": "f3e5",
-      "san": "Nxe5"
+      "uci": "g4f3",
+      "san": "Bxf3"
     },
     {
       "letter": "C",
-      "uci": "d3g6",
-      "san": "Bxg6"
+      "uci": "f6e4",
+      "san": "Nxe4"
     },
     {
       "letter": "D",
-      "uci": "a4c6",
-      "san": "Qxc6+"
+      "uci": "b4a2",
+      "san": "Nxa2"
     }
   ],
   "solvedBy": [],
