@@ -1,30 +1,30 @@
 {
-  "puzzleId": "22sss",
-  "fen": "2rk1r2/p6R/3p1bQ1/1p2p3/4P3/2q5/P4P2/1K1R4 w - - 5 28",
+  "puzzleId": "7epJ3",
+  "fen": "8/1p3q1k/4p3/1P1n1p1P/3Q4/5P2/bB4P1/6K1 w - - 4 40",
   "turn": "w",
-  "rating": 968,
-  "themeLabel": "Mate in 1 · Middlegame",
-  "correctUci": "d1d6",
+  "rating": 1046,
+  "themeLabel": "Mate in 1 · Endgame",
+  "correctUci": "d4h8",
   "options": [
     {
       "letter": "A",
-      "uci": "g6e8",
-      "san": "Qe8+"
+      "uci": "d4d3",
+      "san": "Qd3"
     },
     {
       "letter": "B",
-      "uci": "h7a7",
-      "san": "Rxa7"
+      "uci": "d4g7",
+      "san": "Qg7+"
     },
     {
       "letter": "C",
-      "uci": "g6f6",
-      "san": "Qxf6+"
+      "uci": "d4d5",
+      "san": "Qxd5"
     },
     {
       "letter": "D",
-      "uci": "d1d6",
-      "san": "Rxd6#"
+      "uci": "d4h8",
+      "san": "Qh8#"
     }
   ],
   "solvedBy": [],
