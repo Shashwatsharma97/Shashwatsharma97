@@ -1,30 +1,30 @@
 {
-  "puzzleId": "7epJ3",
-  "fen": "8/1p3q1k/4p3/1P1n1p1P/3Q4/5P2/bB4P1/6K1 w - - 4 40",
+  "puzzleId": "6Lt9D",
+  "fen": "n1kr3r/1p2Rp1p/6pb/1P1p4/8/5PK1/1P4PP/R7 w - - 0 27",
   "turn": "w",
-  "rating": 1046,
+  "rating": 1004,
   "themeLabel": "Mate in 1 · Endgame",
-  "correctUci": "d4h8",
+  "correctUci": "a1a8",
   "options": [
     {
       "letter": "A",
-      "uci": "d4d3",
-      "san": "Qd3"
+      "uci": "e7b7",
+      "san": "Rxb7"
     },
     {
       "letter": "B",
-      "uci": "d4g7",
-      "san": "Qg7+"
+      "uci": "a1a8",
+      "san": "Rxa8#"
     },
     {
       "letter": "C",
-      "uci": "d4d5",
-      "san": "Qxd5"
+      "uci": "e7f7",
+      "san": "Rxf7"
     },
     {
       "letter": "D",
-      "uci": "d4h8",
-      "san": "Qh8#"
+      "uci": "e7c7",
+      "san": "Rc7+"
     }
   ],
   "solvedBy": [],
