@@ -1,30 +1,30 @@
 {
-  "puzzleId": "0NgZW",
-  "fen": "6r1/2pkqrpR/2n1ppQ1/pp5N/2nPP1P1/P7/1PRNKPP1/8 b - - 1 26",
+  "puzzleId": "5AYeR",
+  "fen": "2kr1b1r/pppq2pp/2n2n2/1Q3N2/4p3/1B6/PPP2PPP/RNB1K2R b KQ - 0 11",
   "turn": "b",
-  "rating": 967,
-  "themeLabel": "Winning tactic · Middlegame",
-  "correctUci": "c6d4",
+  "rating": 1025,
+  "themeLabel": "Mate in 1 · Opening",
+  "correctUci": "d7d1",
   "options": [
     {
       "letter": "A",
-      "uci": "c6d4",
-      "san": "Nxd4+"
+      "uci": "d7f5",
+      "san": "Qxf5"
     },
     {
       "letter": "B",
-      "uci": "c4b2",
-      "san": "Nxb2"
+      "uci": "f8b4",
+      "san": "Bb4+"
     },
     {
       "letter": "C",
-      "uci": "c4d2",
-      "san": "Nxd2"
+      "uci": "d7d1",
+      "san": "Qd1#"
     },
     {
       "letter": "D",
-      "uci": "e7a3",
-      "san": "Qxa3"
+      "uci": "d7d2",
+      "san": "Qd2+"
     }
   ],
   "solvedBy": [],
