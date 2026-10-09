@@ -1,30 +1,30 @@
 {
-  "puzzleId": "5AYeR",
-  "fen": "2kr1b1r/pppq2pp/2n2n2/1Q3N2/4p3/1B6/PPP2PPP/RNB1K2R b KQ - 0 11",
+  "puzzleId": "4jn1w",
+  "fen": "r1bqk2r/pp1n1pb1/2pp1n1p/4p1N1/3PP2B/2PB4/PP1N1PPP/R2Q1RK1 b kq - 0 10",
   "turn": "b",
-  "rating": 1025,
-  "themeLabel": "Mate in 1 · Opening",
-  "correctUci": "d7d1",
+  "rating": 1006,
+  "themeLabel": "Winning advantage · Opening",
+  "correctUci": "h6g5",
   "options": [
     {
       "letter": "A",
-      "uci": "d7f5",
-      "san": "Qxf5"
+      "uci": "f6e4",
+      "san": "Nxe4"
     },
     {
       "letter": "B",
-      "uci": "f8b4",
-      "san": "Bb4+"
+      "uci": "e5d4",
+      "san": "exd4"
     },
     {
       "letter": "C",
-      "uci": "d7d1",
-      "san": "Qd1#"
+      "uci": "h6g5",
+      "san": "hxg5"
     },
     {
       "letter": "D",
-      "uci": "d7d2",
-      "san": "Qd2+"
+      "uci": "d6d5",
+      "san": "d5"
     }
   ],
   "solvedBy": [],
