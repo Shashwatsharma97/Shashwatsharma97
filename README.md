@@ -233,20 +233,20 @@ afterthought bolted on once something "works."
 ---
 
 <!-- CHESS:START -->
-### 🧩 Daily Chess Puzzle (~1006 Elo)
+### 🧩 Daily Chess Puzzle (~1027 Elo)
 
-**Winning advantage · Opening** &middot; **Black to move.** Which move is best?
+**Mate in 1 · Middlegame** &middot; **White to move.** Which move is best?
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1791541311823" alt="chess puzzle board" width="480" />
+<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1791625303031" alt="chess puzzle board" width="480" />
 </div>
 
 | Option | Move — click if you think this is it |
 |---|---|
-| **A** | [Nxe4](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%204jn1w%3A%20A&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **B** | [exd4](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%204jn1w%3A%20B&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **C** | [hxg5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%204jn1w%3A%20C&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **D** | [d5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%204jn1w%3A%20D&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **A** | [Rxd5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%205NLxB%3A%20A&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **B** | [Rxh6+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%205NLxB%3A%20B&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **C** | [Rg8#](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%205NLxB%3A%20C&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **D** | [Nxd5](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%205NLxB%3A%20D&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
 
 0 people have solved this one so far.
 
