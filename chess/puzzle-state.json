@@ -1,30 +1,30 @@
 {
-  "puzzleId": "1mKZt",
-  "fen": "4R3/8/p2b1Ppk/Pp6/4b2P/8/5K2/r4B2 w - - 3 49",
-  "turn": "w",
-  "rating": 1003,
-  "themeLabel": "Mate in 1 · Endgame",
-  "correctUci": "e8h8",
+  "puzzleId": "352he",
+  "fen": "r2qkb1r/ppp2ppp/3p1n2/8/1n1PP1b1/3B1N2/PP1N1PPP/R1BQ1RK1 b kq - 4 9",
+  "turn": "b",
+  "rating": 986,
+  "themeLabel": "Winning advantage · Opening",
+  "correctUci": "b4d3",
   "options": [
     {
       "letter": "A",
-      "uci": "e8e4",
-      "san": "Rxe4"
+      "uci": "g4f3",
+      "san": "Bxf3"
     },
     {
       "letter": "B",
-      "uci": "f1d3",
-      "san": "Bd3"
+      "uci": "f6e4",
+      "san": "Nxe4"
     },
     {
       "letter": "C",
-      "uci": "e8h8",
-      "san": "Rh8#"
+      "uci": "b4d3",
+      "san": "Nxd3"
     },
     {
       "letter": "D",
-      "uci": "f1b5",
-      "san": "Bxb5"
+      "uci": "b4a2",
+      "san": "Nxa2"
     }
   ],
   "solvedBy": [],
