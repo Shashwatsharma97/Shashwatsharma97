@@ -233,20 +233,20 @@ afterthought bolted on once something "works."
 ---
 
 <!-- CHESS:START -->
-### 🧩 Daily Chess Puzzle (~1004 Elo)
+### 🧩 Daily Chess Puzzle (~966 Elo)
 
-**Mate in 1 · Endgame** &middot; **White to move.** Which move is best?
+**Mate in 1 · Middlegame** &middot; **White to move.** Which move is best?
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1792051855058" alt="chess puzzle board" width="480" />
+<img src="https://raw.githubusercontent.com/Shashwatsharma97/Shashwatsharma97/main/chess/board.svg?v=1792137824473" alt="chess puzzle board" width="480" />
 </div>
 
 | Option | Move — click if you think this is it |
 |---|---|
-| **A** | [Rxa8#](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%206Lt9D%3A%20A&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **B** | [Rxf7](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%206Lt9D%3A%20B&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **C** | [Rc1+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%206Lt9D%3A%20C&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
-| **D** | [Rc7+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%206Lt9D%3A%20D&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **A** | [Nxh7+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20A&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **B** | [Qe6#](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20B&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **C** | [Ne4+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20C&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
+| **D** | [Qe5+](https://github.com/Shashwatsharma97/Shashwatsharma97/issues/new?title=puzzle%3A%200ewY7%3A%20D&body=Just%20click%20%22Submit%20new%20issue%22%20%E2%80%94%20nothing%20else%20needed.) |
 
 0 people have solved this one so far.
 
