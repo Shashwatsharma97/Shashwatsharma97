@@ -1,30 +1,30 @@
 {
-  "puzzleId": "0rhXq",
-  "fen": "r2q1rk1/pp3ppp/2p3b1/4p3/4n1P1/1PBB1P1P/P1PKQ3/R6R w - - 0 18",
-  "turn": "w",
-  "rating": 980,
-  "themeLabel": "Winning advantage · Middlegame",
-  "correctUci": "f3e4",
+  "puzzleId": "8VRG7",
+  "fen": "1rn4k/8/1p1p1r1P/pPpNpq2/2Pn3Q/P2P1bP1/5P1P/1RB2RKB b - - 1 30",
+  "turn": "b",
+  "rating": 1003,
+  "themeLabel": "Mate in 1 · Middlegame",
+  "correctUci": "d4e2",
   "options": [
     {
       "letter": "A",
-      "uci": "d2d1",
-      "san": "Kd1"
+      "uci": "f3d5",
+      "san": "Bxd5"
     },
     {
       "letter": "B",
-      "uci": "e2e4",
-      "san": "Qxe4"
+      "uci": "d4b5",
+      "san": "Nxb5"
     },
     {
       "letter": "C",
-      "uci": "d2e3",
-      "san": "Ke3"
+      "uci": "d4e2",
+      "san": "Ne2#"
     },
     {
       "letter": "D",
-      "uci": "f3e4",
-      "san": "fxe4"
+      "uci": "f5d3",
+      "san": "Qxd3"
     }
   ],
   "solvedBy": [],
